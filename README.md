@@ -68,6 +68,8 @@
    
 <hr>
 
+<h3 align="center">STATS</h3>
+
 <div align="center" id="stats">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustaq-amd&layout=compact&theme=tokyonight" width="410" height="200"/>
    <img src="https://github-readme-stats.vercel.app/api?username=mustaq-amd&layout=compact&theme=tokyonight" width="410" height="200"/>
