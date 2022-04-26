@@ -33,7 +33,19 @@
   </a>
   &nbsp;
    <a href="">
+   <img src="https://img.shields.io/badge/JDBC-3e6e93?style=for-the-badge&logo=jdbc&logoColor=white" alt="JDBC"/>
+  </a>
+  &nbsp;
+   <a href="">
+<img src="https://img.shields.io/badge/Hibernate-3e6e93?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  </a>
+  &nbsp;
+   <a href="">
     <img src="https://img.shields.io/badge/JPA-skyblue?style=for-the-badge&logo=hibernate&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;
+     <a href="">
+   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
   </a>
   &nbsp;
   <a href="">
@@ -64,6 +76,23 @@
   <a href="">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
+   &nbsp;
+   <a href="">
+    <img src="https://img.shields.io/badge/Maven-0769AD?style=for-the-badge&logo=maven&logoColor=white" alt="Maven"/>
+  </a>
+  &nbsp;
+   <a href="">
+    <img src="https://img.shields.io/badge/Gradle-0769AD?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
+  </a>
+  &nbsp;
+    <a href="">
+    <img src="https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  </a>
+  &nbsp;
+   <a href="">
+     <img src="https://img.shields.io/badge/PostmanAPI-red?style=for-the-badge&logo=postmanAPI&logoColor=white" alt="Jenkins"/>
+  </a>
+  &nbsp;
 </div>
    
 <hr>
