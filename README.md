@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/97461845/163194036-dae5524b-af8a-412a-a028-3e557584823b.jpg" alt="my banner">
 <h3><p align="center">Hi there, I'm Mustaq<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" font-weight="bold"/></p></h3>
 
-<h3><p align="center">I'm a Full Stack Java Developer with more than 2 year's of experience as a Software Developer. I have hands-on experince in designing, developing and mantaining of projects. Highly skilled in collabaration, Decision making, DataStructures & Algorithm.</p></h3>
+<h3><p align="center">I'm a Full Stack Java Developer with more than 2 year's of experience as a Software Developer. I have hands-on experience in designing, developing and maintaining of projects. Highly skilled in collaboration, Decision making, Data Structures & Algorithm.</p></h3>
 
 <div align="center"><img src="https://cdn1.iconfinder.com/data/icons/data-science-1-1/512/20-512.png" height="200" width="200"></div>
 <div align="center" dir="auto">
    <p dir="auto"> <g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">🌱</g-emoji> I am Currently learning Spring Boot</p>
-   <p dir="auto"> <g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about Java, Spring Boot, javascript, DS-Algo</p>
+   <p dir="auto"> <g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about Java, Spring Boot, JavaScript, DS-Algo</p>
 </div>
 
 <hr>
