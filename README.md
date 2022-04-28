@@ -29,9 +29,29 @@
    
 <div id="skills-badges">
    <a href="">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;
+     <a href="">
+    <img src="https://camo.githubusercontent.com/92acee6631856371ba17a0dbb1b044948dab754954db0ca32a34b83ebd254392/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532336533346632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;
+     <a href="">
+    <img src="https://camo.githubusercontent.com/1ed25c5e93c387a74ce11eb6b6a94659235636df2c1b3ae75817b271c83f1be4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;
+   <a href="">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;
+   <a href="">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=blue" alt="LinkedIn Badge"/>
   </a>
   &nbsp;
+    <a href="">
+    <img src="https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   &nbsp;
    <a href="">
    <img src="https://img.shields.io/badge/JDBC-3e6e93?style=for-the-badge&logo=jdbc&logoColor=white" alt="JDBC"/>
   </a>
@@ -48,31 +68,12 @@
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
   </a>
   &nbsp;
-  <a href="">
-    <img src="https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-   &nbsp;
+ 
    <a href="">
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp;
-  
-  <a href="">
-    <img src="https://camo.githubusercontent.com/92acee6631856371ba17a0dbb1b044948dab754954db0ca32a34b83ebd254392/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532336533346632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge"/>
-  </a>
-  &nbsp;
-   <a href="">
-    <img src="https://camo.githubusercontent.com/1ed25c5e93c387a74ce11eb6b6a94659235636df2c1b3ae75817b271c83f1be4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge"/>
-  </a>
-  &nbsp;
-   <a href="">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="LinkedIn Badge"/>
-  </a>
-  &nbsp;
-  <a href="">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  &nbsp;
+
   <a href="">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
