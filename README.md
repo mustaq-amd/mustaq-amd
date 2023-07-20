@@ -6,7 +6,7 @@
 <div align="center"><img src="https://cdn1.iconfinder.com/data/icons/data-science-1-1/512/20-512.png" height="200" width="200"></div>
 <div align="center" dir="auto">
    <p dir="auto"> <g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">🌱</g-emoji> I am Currently learning Spring Boot</p>
-   <p dir="auto"> <g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about Java, Spring Boot, JavaScript, DS-Algo</p>
+   <p dir="auto"> <g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about Java, Spring Boot, Angular, DS-Algo</p>
 </div>
 
 <hr>
