@@ -75,6 +75,11 @@
   &nbsp;
 
   <a href="">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;
+
+  <a href="">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
    &nbsp;
