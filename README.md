@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/97461845/163194036-dae5524b-af8a-412a-a028-3e557584823b.jpg" alt="my banner">
 <h3><p align="center">Hi there, I'm Mustaq<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" font-weight="bold"/></p></h3>
 
-<h3><p align="center">I'm a Full Stack Java Developer with more than 3 year's of experience as a Software Developer. I have hands-on experience in designing, developing and maintaining of projects. Highly skilled in collaboration, Decision making, Data Structures & Algorithm.</p></h3>
+<h3><p align="center">I'm a Full Stack Java Developer with more than 4 year's of experience as a Software Developer. I have hands-on experience in designing, developing and maintaining of projects. Highly skilled in collaboration, Decision making, Data Structures & Algorithm.</p></h3>
 
 <div align="center"><img src="https://cdn1.iconfinder.com/data/icons/data-science-1-1/512/20-512.png" height="200" width="200"></div>
 <div align="center" dir="auto">
